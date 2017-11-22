@@ -1,3 +1,5 @@
+package lesson_2;
+
 class ObjectClass {
     public static void main(String[ ] args) {
         Vehicle car1 = new Vehicle("blue", "AI8978", 5600);
